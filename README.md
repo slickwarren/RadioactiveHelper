@@ -7,12 +7,17 @@ The code can be found in midtermMain.py which was the final project for my Compu
 
 Current features include: 
 Efficiency Adjustment for (Germanium Detector Only)
+
 prediction of a 'light' element, 'heavy' element, and a 'lab' element
+
 sample data from 'charred banana' experiment... predicts that potassium 40 is the likely radioactive element in this sample
 
 Future works include:
 Adding efficiency adjustment for any detector
+
 Testing a wider variety of spectra
+
 Calculating the background subtraction for the user, instead of the user having to enter the data already background subtracted
+
 Add user functionality (i.e. make executable)
 
